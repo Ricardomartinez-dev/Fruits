@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "id": "xtyw5im9krv0dmppzjkec",
+      "fruits": [
+        "aguacate",
+        "fresa"
+      ],
+      "amounts": [
+        "1",
+        "3"
+      ],
+      "final_price": 28,
+      "discount_applied": false
+    },
+    {
+      "id": "pwetg51ou1sagkzaqm3szb",
+      "fruits": [
+        "uva",
+        "limon",
+        "durazno"
+      ],
+      "amounts": [
+        "1",
+        "3",
+        "1"
+      ],
+      "final_price": 35,
+      "discount_applied": false
+    },
+    {
+      "id": "yadq4qazo707e55fb5dc13",
+      "fruits": [
+        "aguacate",
+        "uva",
+        "platano"
+      ],
+      "amounts": [
+        "3",
+        "3",
+        "3"
+      ],
+      "final_price": 56.7,
+      "discount_applied": true
+    },
+    {
+      "id": "o90zzd7vz22f13d1rev62",
+      "fruits": [
+        "manzana",
+        "durazno",
+        "mango"
+      ],
+      "amounts": [
+        "14",
+        "12",
+        "14"
+      ],
+      "final_price": 252,
+      "discount_applied": true
+    }
+  ]
+}
